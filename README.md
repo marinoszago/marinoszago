@@ -6,6 +6,13 @@ I am also a technical co-founder of [Octovus.ai](https://octovus.ai). There I bu
 
 More at [zagkotsis.com](https://zagkotsis.com).
 
+#### Focus areas
+
+- AI agents and LLM products, from prototype to production.
+- Large PHP and Symfony platforms, and integrations with external ticketing providers.
+- Domain-driven design, in PHP and Go.
+- Data and machine learning, from my Spark and NLP work.
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/dashboard-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/dashboard-light.svg">
@@ -34,6 +41,8 @@ More at [zagkotsis.com](https://zagkotsis.com).
 <!-- yearly:end -->
 
 </details>
+
+Work from my previous companies lives under their GitHub accounts, so it does not show in these numbers.
 
 #### Public projects
 
