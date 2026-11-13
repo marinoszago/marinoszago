@@ -14,7 +14,7 @@ Senior engineer at [TicketSwap](https://www.ticketswap.com), based in the Nether
 <!-- yearly:start -->
 | Year | Contributions | Private |
 | --- | ---: | ---: |
-| 2026 | 1,029 | 1,022 |
+| 2026 | 1,031 | 1,022 |
 | 2025 | 59 | 57 |
 | 2024 | 64 | 64 |
 | 2023 | 16 | 16 |
