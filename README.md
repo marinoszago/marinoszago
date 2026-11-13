@@ -1,6 +1,10 @@
 ### Hi, I'm Marinos
 
-Senior engineer at [TicketSwap](https://www.ticketswap.com), based in the Netherlands. More at [zagkotsis.com](https://zagkotsis.com).
+Lead software and AI engineer at [TicketSwap](https://www.ticketswap.com), based in the Netherlands.
+
+I am also a technical co-founder of [Octovus.ai](https://octovus.ai). There I build [Forologia AI](https://forologia.ai), an AI assistant for accountants, and [Fieldhelper AI](https://octovus.ai).
+
+More at [zagkotsis.com](https://zagkotsis.com).
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/dashboard-dark.svg">
