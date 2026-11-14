@@ -25,7 +25,7 @@ More at [zagkotsis.com](https://zagkotsis.com).
 <!-- yearly:start -->
 | Year | Contributions | Private |
 | --- | ---: | ---: |
-| 2026 | 1,031 | 1,022 |
+| 2026 | 1,040 | 1,024 |
 | 2025 | 59 | 57 |
 | 2024 | 64 | 64 |
 | 2023 | 16 | 16 |
